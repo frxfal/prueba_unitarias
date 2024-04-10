@@ -47,7 +47,9 @@ public class AssertTest {
 
     @Test
     void whenBooleanIsTrue() {
+        
         assertTrue(1 == 1);
+
     }
 
     @Test

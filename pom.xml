@@ -15,12 +15,6 @@
     </properties>
 
     <dependencies>
-        <!-- https://mvnrepository.com/artifact/org.jongo/jongo -->
-        <dependency>
-            <groupId>org.jongo</groupId>
-            <artifactId>jongo</artifactId>
-            <version>1.5.1</version>
-        </dependency>
         <!-- https://mvnrepository.com/artifact/org.mongodb/mongodb-driver -->
         <dependency>
             <groupId>org.mongodb</groupId>
@@ -91,11 +85,5 @@
             <version>7.7.1</version>
             <scope>test</scope>
         </dependency>
-
-
     </dependencies>
-
-
-
-
 </project>
